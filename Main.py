@@ -31,4 +31,4 @@ async def on_message(message):
         else:
             await client.send_message(message.channel, embed=returnValue)
 
-client.run("NDE0NzIyMjk1MzMyODY0MDA4.DeMfSw.FgPjlC741zffo7QZrvLD9CiwypI")
+client.run("..")
